@@ -218,7 +218,7 @@ margin-left: -180px;
   width: 809px;
 }
 .tra{
-  background-color: #B23300;
+  background-color: #FF642D;
   color: white;
   border: transparent;
   width: 190px;
@@ -257,4 +257,9 @@ a{
 }
 .temp{
   margin-left: 9px;
+}
+.ancor{
+  color: #FF642D;
+  padding: 0;
+  margin-left: 0;
 }
