@@ -1,0 +1,260 @@
+body{
+  margin: 0;
+  padding: 0;
+  margin-top: -19px;
+}
+
+nav{
+  background-color: black;
+  height: 50px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  color: #A1A6AF;
+  justify-content: space-evenly;
+
+}
+img{
+  width: 150px;
+  height: 100px;
+  align-self: flex-start;
+  margin-top: -23px;
+  margin-left: 200px;
+}
+/* #new{
+  height: 10px;
+  width: 23px;
+  background-color: #4FAE33;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  display: flex;
+  align-items: flex-start;
+} */
+svg{
+  margin-top: 18px;
+}
+div{
+  display: flex;
+  padding-left:187px ;
+  margin-right: 125px;
+}
+button{
+  width: 100px;
+  height: 30px;
+  margin-top: 9px;
+  border-radius: 10%;
+}
+#log{
+  background-color: black;
+  border:1px white solid;
+  color: white;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+#sin{
+  color: white;
+  background-color: #009F81;
+  border: transparent;
+}
+.logo{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  margin-left: 0px;
+  margin-top: -9px;
+}
+.color{
+  color: #009F81;
+}
+.color1{
+  color: red;
+}
+table{
+  /* padding: 100px; */
+  border-bottom: 1px black solid;
+  margin: auto;
+}
+td{
+  padding-right: 109px;
+  padding-top: 30px;
+  text-align:start;
+  border-bottom: 1px black solid;
+}
+tr{
+  border-bottom: 1px black solid;
+}
+th{
+  border-bottom: 1px black solid;
+  font-size: 20px;
+  text-align: left;
+}
+.logo1{
+text-align: left;
+margin-left: -10px;
+/* width: 20px; */
+padding: 0;
+}
+.Web{
+  text-align: start;
+}
+.tabtop{
+  font-size: 50px;
+  margin-left: 138px;
+  margin-top: 155px;
+}
+.top{
+  width: 90%;
+  height: 60px;
+  display: flex;
+  font-size: 22px;
+  align-items: center;
+  margin-left: -45px;
+}
+.enve{
+  margin-bottom:  21px;
+  margin-left: 420px;
+}
+.share{
+  margin-left: 25px;
+}
+.back{
+  height: 50vh;
+  width: 86vw;
+  background-image: url(back.jpg);
+  background-position: center;
+  background-size: 100vw 51vh;
+  background-repeat: no-repeat;
+  padding-right: 0;
+  margin-right: 0;
+}
+.face{
+  border: 1px black solid;
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  border-radius: 10%;
+  margin-left: 10px;
+}
+.twitter{
+  border: 1px black solid;
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  border-radius: 10%;
+  margin-left: 10px;
+}
+.in{
+  border: 1px black solid;
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  border-radius: 10%;
+  margin-left: 10px;
+}
+.link{
+  border: 1px black solid;
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  border-radius: 10%;
+  margin-left: 10px;
+}
+.share{
+  font-size: 20px;
+}
+.last{
+  color: blue;
+  font-size: 20px;
+  padding-left: 150px;
+}
+.arrow{
+  margin-left: 10px;
+  padding-top: 5px;
+}
+.tip{
+  text-align: left;
+}
+.back{
+  font-size: 20px;
+  display: block;
+}
+.box{
+  width: 300px;
+  height: 55px;
+  border: 1px grey solid;
+}
+.glass{
+ padding-left: 205px;
+}
+.box1{
+margin-left: -180px;
+color: #8A93BB;
+}
+.form{
+  /* border: 1px black solid; */
+  background-color: rgb(255, 255, 255);
+  /* background-color: transparent; */
+  height: 257px;
+  width: 975px;
+  margin-top: 53px;
+  display: block;
+  border-radius: 15px;
+  box-shadow:5px 5px 2px 2px grey;
+
+}
+.txt{
+position: absolute;
+margin-bottom: 50px;
+font-size: 65px;
+margin-top: -7px;
+margin-left: -180px;
+
+}
+.context{
+  position: absolute;
+  margin-top: 85px;
+  margin-left: -163px;
+  width: 809px;
+}
+.tra{
+  background-color: #B23300;
+  color: white;
+  border: transparent;
+  width: 190px;
+  height: 60px;
+  font-size: 19px;
+  margin-left: 530px;
+  position: absolute;
+  margin-top:  -59px;
+}
+.Wld{
+  /* background/+-color: rgb(255, 255, 255); */
+  height: 45px;
+  width: 338px;
+  margin-top: 172px;
+  margin-left: -156px;
+  font-size: 21px;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+.all{
+  /* background/+-color: rgb(255, 255, 255); */
+  height: 45px;
+  width: 338px;
+  margin-top: 172px;
+  margin-left: 86px;
+  font-size: 21px;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+.in1{
+  margin-left: -455px;
+  margin-right: 405px;
+}
+a{
+  margin-left: 28px ;
+}
+.temp{
+  margin-left: 9px;
+}
